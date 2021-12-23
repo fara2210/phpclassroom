@@ -21,11 +21,11 @@
     echo ($key+1);
     echo "</td>";
     
-    echo "<td bgcolor='#B0E0E6'>";
+    echo "<td bgcolor='#FFF4B5'>";
     echo $val->province;
     echo "</td>";
     
-    echo "<td bgcolor='#B0C4DE'>";
+    echo "<td bgcolor='#00BFFF'>";
     echo $val->new_case;
     echo "</td>";
     
